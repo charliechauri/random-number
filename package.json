@@ -1,0 +1,25 @@
+{
+  "name": "random-number",
+  "version": "1.0.0",
+  "description": "This project has been built using `node v12.2.0`",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charliechauri/random-number.git"
+  },
+  "author": {
+    "name": "Carlos Echauri",
+    "email": "carlos.echauri@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/charliechauri/random-number/issues"
+  },
+  "homepage": "https://github.com/charliechauri/random-number#readme"
+}
